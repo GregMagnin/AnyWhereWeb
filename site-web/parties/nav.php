@@ -13,9 +13,13 @@
           <a class="nav-link" href="#">Réalisations</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="#">L'Équipe</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="#">Nous Contacter</a>
         </li>
       </ul>
     </div>
   </div>
 </nav>
+<img src="images/accueil.png" class="img-fluid" alt="Image d'accueil">

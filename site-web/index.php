@@ -10,9 +10,9 @@
 </head>
 
 <body> 
+<?php include 'parties/accueil.php' ?>
 <?php include 'parties/nav.php' ?>
 <script src="js/bootstrap.bundle.min.js"></script>
 <?php include 'parties/carousel.php' ?> 
-
 </body>
 </html>
